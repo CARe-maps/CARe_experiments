@@ -1,0 +1,9 @@
+pyproject.toml
+openmask3d/__init__.py
+openmask3d/compute_features_scannet200.py
+openmask3d/compute_features_single_scene.py
+openmask3d/utils.py
+openmask3d.egg-info/PKG-INFO
+openmask3d.egg-info/SOURCES.txt
+openmask3d.egg-info/dependency_links.txt
+openmask3d.egg-info/top_level.txt

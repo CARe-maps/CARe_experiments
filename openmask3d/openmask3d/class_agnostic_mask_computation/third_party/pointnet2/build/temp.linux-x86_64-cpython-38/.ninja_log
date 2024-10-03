@@ -1,0 +1,10 @@
+# ninja log v5
+1	25164	1709892772291946896	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling.o	3c151ba76e0ba0dc
+1	25425	1709892772555946341	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points.o	2cce4d1fbd81c43c
+1	25507	1709892772647946146	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points_gpu.o	c3fd13c1bbde3fd6
+0	25564	1709892772695946045	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/bindings.o	63a9fffc5836b646
+0	25776	1709892772915945582	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query_gpu.o	a1912577aa81962a
+0	25805	1709892772939945531	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query.o	7532046ea61c3956
+1	26095	1709892773231944916	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate.o	f6d4481386036c1
+1	26158	1709892773299944774	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate_gpu.o	bc158a3ae605c79
+1	26481	1709892773623944091	/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/openmask3d/class_agnostic_mask_computation/third_party/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling_gpu.o	e89dd3afd2f2c2c1

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: openmask3d
+Version: 0.0.1
+Summary: OpenMask3D: Open-Vocabulary 3D Instance Segmentation 
+Author: Elisabetta Fedele, Ayça Takmaz, Robert W. Sumner, Marc Pollefeys, Federico Tombari, Francis Engelmann
+Project-URL: github, https://github.com/OpenMask3D/openmask3d
+Description-Content-Type: text/markdown

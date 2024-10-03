@@ -1,0 +1,10 @@
+- general.experiment_name=experiment_mp3d_ext
+- general.checkpoint=/tmp2/htsu/mp3d_pointcloud_gen/openmask3d/resources/scannet200_model.ckpt
+- general.train_mode=false
+- data.test_mode=test
+- model.num_queries=120
+- general.use_dbscan=true
+- general.dbscan_eps=0.95
+- general.save_visualizations=false
+- general.scene_path=./resources/mp3d_0323_25mm/Z6MFQCViBuw/6//pointcloud.ply
+- general.mask_save_dir=./extracted_features/mp3d_0323_25mm/Z6MFQCViBuw/6
