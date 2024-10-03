@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Obtaining Map
 
 ### Preprocessing
-We preprocess the data to put everything in the correct position for OpenMask3d. First, put the MatterPort3D dataset under `./datset/`
+We preprocess the data to put everything in the correct position for OpenMask3d. First, put the MatterPort3D dataset under `./datset/` The dataset can be downloaded [here](https://huggingface.co/Po-Chen/CARe-maps/resolve/main/data/dataset.zip).
 
 The resulting dataset structure should be 
 ```
