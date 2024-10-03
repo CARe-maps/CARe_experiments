@@ -1,15 +1,28 @@
 # CARe_experiments
-This repository contains our experiments under openmask3d setting reported in the paper "Context-Aware Replanning with Pre-Explored Semantic Map for Object Navigation".
+This repository contains our experiments under the openmask3d setting reported in the paper "Context-Aware Replanning with Pre-Explored Semantic Map for Object Navigation".
 
 ---
 **Context-Aware Replanning with Pre-Explored Semantic Map for Object Navigation**
 
 [Hung-Ting Su*](https://htsucml.github.io/), [Ching-Yuan Chen*](https://care-maps.github.io/), [Po-Chen Ko*](https://pochen-ko.github.io/), [Jia-Fong Yeh](https://www.cmlab.csie.ntu.edu.tw/~jiafongyeh), [Min Sun](https://aliensunmin.github.io/), [Winston H. Hsu](https://winstonhsu.info/)
 
+**CoRL 2024**
+
+```bib
+@inproceedings{
+su2024contextaware,
+title={Context-Aware Replanning with Pre-Explored Semantic Map for Object Navigation},
+author={Hung-Ting Su and CY Chen and Po-Chen Ko and Jia-Fong Yeh and Min Sun and Winston H. Hsu},
+booktitle={8th Annual Conference on Robot Learning},
+year={2024},
+url={https://openreview.net/forum?id=Dftu4r5jHe}
+}
+```
+
 ---
 
 ## Setup
-To setup the openmask3d enviroment, first follow [their Setup instructions](https://github.com/OpenMask3D/openmask3d):
+To setup the openmask3d environment, first follow [their Setup instructions](https://github.com/OpenMask3D/openmask3d):
 
 Then, update openmask3d to our version by
 
@@ -55,7 +68,7 @@ python extract_mp3d_feature.py
 ```
 
 ## Experiment
-Finally, the OpenMask3D experiment with the introduced replanning strategies can be exucuted by 
+Finally, the OpenMask3D experiment with the introduced replanning strategies can be executed by 
 ```
 python evaluate_mp3d_top_category.py
 python evaluate_mp3d_top_confidence.py
