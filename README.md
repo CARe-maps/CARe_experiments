@@ -4,7 +4,7 @@ This repository contains our experiments under the openmask3d setting reported i
 ---
 **Context-Aware Replanning with Pre-Explored Semantic Map for Object Navigation**
 
-[Hung-Ting Su*](https://htsucml.github.io/), [Ching-Yuan Chen*](https://care-maps.github.io/), [Po-Chen Ko*](https://pochen-ko.github.io/), [Jia-Fong Yeh](https://www.cmlab.csie.ntu.edu.tw/~jiafongyeh), [Min Sun](https://aliensunmin.github.io/), [Winston H. Hsu](https://winstonhsu.info/)
+[Po-Chen Ko*](https://pochen-ko.github.io/), [Hung-Ting Su*](https://htsucml.github.io/), [Ching-Yuan Chen*](https://care-maps.github.io/), [Jia-Fong Yeh](https://www.cmlab.csie.ntu.edu.tw/~jiafongyeh), [Min Sun](https://aliensunmin.github.io/), [Winston H. Hsu](https://winstonhsu.info/)
 
 **CoRL 2024**
 
